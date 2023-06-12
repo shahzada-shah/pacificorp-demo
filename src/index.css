@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+@layer base {
+  li {
+    @apply p-4;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+  }
+}
