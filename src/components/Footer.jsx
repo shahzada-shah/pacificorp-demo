@@ -57,11 +57,11 @@ const Footer = () => {
                 <div className="col-span-3 pt-8 md:pt-2 md:col-span-2">
                     <p className="font-semibold uppercase">Subscribe to our newsletter</p>
                     <p className="font-extralight text-gray-400 py-4">
-                        The latest news, articles and resources, sent to your inbox monthly.
+                        Receive the Latest News from PacificCorp Straight to Your Inbox.
                     </p>
                     <form className="flex flex-col sm:flex-row">
-                        <input className="w-full p-2 mr-2 mb-4 rounded-md" type="email" />
-                        <button className="text-white border mb-4 p-2 bg-red-600 border-red-600 hover:bg-transparent hover:text-red-600 rounded-md">
+                        <input className="w-full p-2 mr-2 mb-4 rounded-md" type="email" placeholder="Enter your email address" />
+                        <button className="text-white border mb-4 p-2 bg-red-600 border-red-600 hover:bg-transparent rounded-md hover:text-white hover:border-1 hover:border-white">
                             Subscribe
                         </button>
                     </form>
@@ -70,14 +70,14 @@ const Footer = () => {
 
             <div className="flex flex-col max-w-[1240px] px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500">
                 <p className="py-4">
-                    © 2023 PacifiCorp, a 
+                    © 2023 PacifiCorp, a
                     <span className="font-semibold cursor-pointer hover:text-gray-300"> Berkshire Hathaway Energy </span>subsidiary.
                 </p>
                 <div className="flex justify-between sm:w-[300px] pt-4 text-2xl">
-                    <UilLinkedin className='cursor-pointer hover:text-gray-300'/>
-                    <UilTwitter className='cursor-pointer hover:text-gray-300'/>
-                    <UilInstagram className='cursor-pointer hover:text-gray-300'/>
-                    <UilYoutube className='cursor-pointer hover:text-gray-300'/>
+                    <UilLinkedin className='cursor-pointer hover:text-gray-300' />
+                    <UilTwitter className='cursor-pointer hover:text-gray-300' />
+                    <UilInstagram className='cursor-pointer hover:text-gray-300' />
+                    <UilYoutube className='cursor-pointer hover:text-gray-300' />
                 </div>
             </div>
         </div>

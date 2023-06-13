@@ -5,6 +5,8 @@ import {
   UilCog,
   UilCloudDatabaseTree,
 } from "@iconscout/react-unicons";
+import "@dotlottie/player-component";
+import heroanimation from '../animations/heroanimation.lottie';
 
 const Hero = () => {
   return (
@@ -20,12 +22,12 @@ const Hero = () => {
             low-cost, reliable, and sustainable power for our customers and
             communities.
           </p>
-          <button className="my-4 py-3 text-white border px-6 bg-red-600 border-red-600 hover:bg-transparent hover:text-red-600 rounded-md sm:w-[40%]">
+          <button className="my-4 py-3 text-white font-semibold hover:text-black border px-6 bg-red-600 border-red-600 hover:border-black hover:border-2 hover:bg-transparent rounded-md sm:w-[40%]">
             See Our Progress
           </button>
         </div>
         <div>
-          <img className="w-full" src="" alt="" />
+        <dotlottie-player src={heroanimation} autoplay loop />
         </div>
         <div className="absolute flx flex-col py-8 md:min-w-[800px] bottom-[2%] mx-2 mr-2 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-200 border border-slate-300 rounded-xl text-center shadow-xl">
           <p className="m-2">Empowering Renewable Solutions</p>
