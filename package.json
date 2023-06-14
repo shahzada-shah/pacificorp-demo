@@ -1,7 +1,7 @@
 {
   "name": "pacificorp-demo",
   "version": "0.1.0",
-  "homepage": "https://shahzada-shah.github.io/pacificorp-demo/",
+  "homepage": "https://github.com/shahzada-shah/pacificorp-demo",
   "private": true,
   "dependencies": {
     "@dotlottie/player-component": "^1.4.1",
