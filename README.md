@@ -19,7 +19,7 @@ PacifiCorp Demo is a web application project aimed at showcasing the services pr
 ## Installation and Usage
 
 1. Clone the repository using the following command <br>
-```git clone https://github.com/shahzada-shah/renewable-services.git``` <br><br>
+```git clone https://github.com/shahzada-shah/pacificorp-demo.git``` <br><br>
 2. Navigate to the project directory  <br>
 ```cd renewable-services``` <br><br>
 3. Install the required dependencies <br>
