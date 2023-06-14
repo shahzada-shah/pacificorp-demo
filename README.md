@@ -1,6 +1,6 @@
 # PacifiCorp Demo: Modern Energy Company Website
 
-### [Live Site](https://shahzada-shah.github.io/renewable-services/](https://shahzada-shah.github.io/pacificorp-demo/)
+### [Live Site](https://shahzada-shah.github.io/pacificorp-demo/)
 
 ![Website Demo](https://cdn.discordapp.com/attachments/1112501778085314700/1118427028597780520/90cbbe2693d2ac501c3fa6cfdcb47eb4.gif)
 
