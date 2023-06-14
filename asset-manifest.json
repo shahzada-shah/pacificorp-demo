@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pacificorp-demo/static/css/main.e31c8f53.css",
+    "main.js": "/pacificorp-demo/static/js/main.12143e4b.js",
+    "static/media/heroanimation.lottie": "/pacificorp-demo/static/media/heroanimation.6c26305bb6f94a887f3b.lottie",
+    "index.html": "/pacificorp-demo/index.html",
+    "main.e31c8f53.css.map": "/pacificorp-demo/static/css/main.e31c8f53.css.map",
+    "main.12143e4b.js.map": "/pacificorp-demo/static/js/main.12143e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31c8f53.css",
+    "static/js/main.12143e4b.js"
+  ]
+}
