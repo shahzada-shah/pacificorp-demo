@@ -1,6 +1,7 @@
 {
-  "name": "renewable-services",
+  "name": "pacificorp-demo",
   "version": "0.1.0",
+  "homepage": "https://shahzada-shah.github.io/pacificorp-demo/",
   "private": true,
   "dependencies": {
     "@dotlottie/player-component": "^1.4.1",
@@ -17,6 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,6 +45,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.2"
   }
 }
