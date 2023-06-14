@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# PacifiCorp Demo: Modern Energy Company Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Live Site](https://shahzada-shah.github.io/renewable-services/)
 
-## Available Scripts
+![Website Demo](https://cdn.discordapp.com/attachments/1112501778085314700/1118427028597780520/90cbbe2693d2ac501c3fa6cfdcb47eb4.gif)
 
-In the project directory, you can run:
 
-### `npm start`
+## Introduction
+PacifiCorp Demo is a web application project aimed at showcasing the services provided by Pacificorp, a renewable energy company. The project utilizes modern web technologies such as React, Tailwind CSS, and various icon libraries to create an interactive and visually appealing user interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Key Features 
+* The application includes a comprehensive range of services offered by Pacificorp, including renewable energy solutions, clean transportation, grid innovation, and cloud data management.
+* Interactive icons and visual elements are incorporated to enhance the user experience and provide a modern look and feel.
+* React is used as the foundation for building the user interface, providing a component-based architecture for easy development and maintainability.
+* Tailwind CSS, a utility-first CSS framework, is leveraged for efficient and responsive styling. It allows for the rapid creation of custom styles and ensures consistency across the application.
+* Additional packages like DotLottie are utilized to introduce animations and dynamic elements into the user interface, creating an engaging and immersive experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Installation and Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository using the following command <br>
+```git clone https://github.com/shahzada-shah/pacificorp-demo.git``` <br><br>
+2. Navigate to the project directory  <br>
+```cd renewable-services``` <br><br>
+3. Install the required dependencies <br>
+```npm install``` <br><br>
+4. Start the development server <br>
+```npm start``` 
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Future Updates or Improvements
+* **Authentication page (sign in / sign out) connected by Firebase:** Implement a secure authentication system using Firebase to allow users to sign in and sign out of the application. This will provide a personalized experience and enable access to user-specific features and data.
+* **User logged-in dashboard view:** Create a dashboard view for authenticated users where they can access personalized information, manage their account settings, and perform specific actions related to their profile. This will enhance the user experience and provide a central hub for user-related activities.
+* **Navigation items made accessible using routes via React Router DOM and with their own layouts:** Utilize React Router DOM to enable seamless navigation between different pages or sections of the application. Each navigation item will be associated with its own route, making it easy for users to access specific content.
+* **Customized Layouts:** Customize the layouts of different pages to ensure a consistent and intuitive user interface. Each page will be designed to provide an optimal user experience, taking into account the specific content and functionality it offers.
