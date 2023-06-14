@@ -1,1 +1,1 @@
-# PacifiCorp Demo: A Modern and Responsive Energy Company Website
+# Pacificorp Website Demo: Modern Energy Company Website
