@@ -1,4 +1,4 @@
-# Pacificorp Demo: Modern Energy Company Website
+# PacifiCorp Demo: Modern Energy Company Website
 
 ### [Live Site](https://shahzada-shah.github.io/renewable-services/)
 
